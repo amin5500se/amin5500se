@@ -19,7 +19,6 @@
 ## 🌱 Currently Learning
 
 - Machine Learning (ML),  
-- CHFI (Computer Hacking Forensic Investigator),  
 - Rust Programming Language
 
 ---
@@ -119,8 +118,7 @@
 ## 🎯 Goals
 
 - Master Rust and build open-source projects  
-- Complete CHFI certification  
-- Create educational content on YouTube  
+
 
 ---
 
