@@ -7,9 +7,6 @@
 
 Building, exploring, and securing technology.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amin5500se&style=flat-square&color=blueviolet" alt="Profile views" />
-</p>
 
 </div>
 
